@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-image: url('profil.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+/* Memberikan jarak antar card product */
+.card {
+    margin-bottom: 20px;
+}
+
+.card > img {
+    
+}
+
